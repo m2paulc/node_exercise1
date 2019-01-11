@@ -1,0 +1,12 @@
+
+Hello ubuntu. Your age is: 25
+Hello ubuntu. Your age is: undefined.
+New Note
+Hello ubuntu. Your age is: undefined.
+New Note.
+Sum total: 10
+Hello ubuntu. Your age is: undefined. 
+New Note. 
+Sum total: 10
+Hello ubuntu. Your age is: undefined. 
+Sum total: 10
